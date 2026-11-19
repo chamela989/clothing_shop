@@ -39,7 +39,7 @@ class _LoginScreenState extends State<LoginScreen> {
     });
 
     // 2. Check for Hardcoded Admin Credentials
-    if (email == "clothingadmin@gmail.com" && password == "admin123") {
+    if (email == "" && password == "") {
       setState(() {
         _isLoading = false;
       });
