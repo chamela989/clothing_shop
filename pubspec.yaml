@@ -1,0 +1,56 @@
+name: clothing_shop
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Icons & UI Utilities
+  cupertino_icons: ^1.0.8
+  cached_network_image: ^3.4.1 # Essential for loading product images smoothly
+  
+  # State Management (Choose BLoC or Riverpod - BLoC is great for robust e-commerce flows)
+  flutter_bloc: ^8.1.6
+  
+  # Firebase Core & Services (Version locked for stability)
+  firebase_core: ^3.8.1
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.1
+  firebase_storage: ^12.3.8
+  image_picker: ^1.0.7
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/Background1.png
+    - assets/images/Background2.png
+    - assets/images/Background3.png
+    - assets/images/Background4.png
+    - assets/images/Background5.png
+    - assets/images/Background6.png
+    - assets/images/Background7.png
+    - assets/images/Background8.png
+    - assets/images/Background9.png
+    - assets/images/Background10.png
+    - assets/images/Background11.png
+    - assets/images/Background12.png
+    - assets/images/Background13.png
+    - assets/images/Background14.png
+    - assets/images/Background15.png
+    - assets/images/Background16.png
+    - assets/images/Background17.png
+
+  

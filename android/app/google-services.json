@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "637664219188",
+    "project_id": "cpclothingshop",
+    "storage_bucket": "cpclothingshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637664219188:android:3307c00f799e54a9e03a61",
+        "android_client_info": {
+          "package_name": "com.cpfusion.clothingshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637664219188-6llnrh4ro4ovpo4get218q4gonhtqlb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLLTDi_Q3W2NQKU2-lsckdSOgCGtd07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637664219188-6llnrh4ro4ovpo4get218q4gonhtqlb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637664219188-ja0kib8vcku7ulpo3uspbrkfegg4hsgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cpfusion.clothingshop.clothingShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637664219188:android:ca7520e34989d36ae03a61",
+        "android_client_info": {
+          "package_name": "com.cpfusion.clothingshop.clothing_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637664219188-6llnrh4ro4ovpo4get218q4gonhtqlb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLLTDi_Q3W2NQKU2-lsckdSOgCGtd07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637664219188-6llnrh4ro4ovpo4get218q4gonhtqlb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637664219188-ja0kib8vcku7ulpo3uspbrkfegg4hsgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cpfusion.clothingshop.clothingShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
