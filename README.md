@@ -41,8 +41,15 @@ The application supports **two main user roles** with role-based access:
 ## Screenshot
 
 | Welcome Screen | Login Screen | User Home | Shopping Cart |
-| :---: | :---: | :---: |
-| <img src="screenshot/welcome.jpg" width="220" /> | <img src="screenshot/login.jpg" width="220" /> | <img src="screenshot/register.jpg" width="220" /> |<img src="screenshot/userhome.jpg" width="220" /> |<img src="screenshot/useraddtocart.jpg" width="220" /> | <img src="screenshot/useradboutview.jpg" width="220" /> | <img src="screenshot/useritemview.jpg" width="220" /> | <img src="screenshot/userprofile.jpg" width="220" /> | <img src="screenshot/userprofileedit.jpg" width="220" />
+| <img src="screenshot/welcome.jpg" width="220" /> 
+| <img src="screenshot/login.jpg" width="220" /> 
+| <img src="screenshot/register.jpg" width="220" /> 
+|<img src="screenshot/userhome.jpg" width="220" /> 
+|<img src="screenshot/useraddtocart.jpg" width="220" /> 
+| <img src="screenshot/useradboutview.jpg" width="220" /> 
+| <img src="screenshot/useritemview.jpg" width="220" /> 
+| <img src="screenshot/userprofile.jpg" width="220" /> 
+| <img src="screenshot/userprofileedit.jpg" width="220" />
 
 
 
