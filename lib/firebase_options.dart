@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDHv7hfuKk-qAmh5uX7Vk-aFIBUGpV5Yz8',
-    appId: '1:637664219188:web:b6f4abaacaa7ab72e03a61',
-    messagingSenderId: '637664219188',
-    projectId: 'cpclothingshop',
-    authDomain: 'cpclothingshop.firebaseapp.com',
-    storageBucket: 'cpclothingshop.firebasestorage.app',
-    measurementId: 'G-D29QD691G0',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAnLLTDi_Q3W2NQKU2-lsckdSOgCGtd07U',
-    appId: '1:637664219188:android:ca7520e34989d36ae03a61',
-    messagingSenderId: '637664219188',
-    projectId: 'cpclothingshop',
-    storageBucket: 'cpclothingshop.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDdoaKnlhOQCy6aIOQCQfPHfDk_GV5lcbU',
-    appId: '1:637664219188:ios:1b11b45c4a59300be03a61',
-    messagingSenderId: '637664219188',
-    projectId: 'cpclothingshop',
-    storageBucket: 'cpclothingshop.firebasestorage.app',
-    iosBundleId: 'com.cpfusion.clothingshop.clothingShop',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDdoaKnlhOQCy6aIOQCQfPHfDk_GV5lcbU',
-    appId: '1:637664219188:ios:1b11b45c4a59300be03a61',
-    messagingSenderId: '637664219188',
-    projectId: 'cpclothingshop',
-    storageBucket: 'cpclothingshop.firebasestorage.app',
-    iosBundleId: 'com.cpfusion.clothingshop.clothingShop',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDHv7hfuKk-qAmh5uX7Vk-aFIBUGpV5Yz8',
-    appId: '1:637664219188:web:30a0e4a9b006630de03a61',
-    messagingSenderId: '637664219188',
-    projectId: 'cpclothingshop',
-    authDomain: 'cpclothingshop.firebaseapp.com',
-    storageBucket: 'cpclothingshop.firebasestorage.app',
-    measurementId: 'G-S3E1MF2Y5R',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
