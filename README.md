@@ -47,9 +47,13 @@ The application supports **two main user roles** with role-based access:
 
 
 
-| Admin Dashboard | Shop About |
-| :---: | :---: | :---: |
-| <img src="screenshot/adminhome.jpg" width="220" /> | <img src="screenshot/adminadditem.jpg" width="220" /> | <img src="screenshot/adminupdateitem.jpg" width="220" /> | <img src="screenshot/admindeleteitem.jpg" width="220" /> | <img src="screenshot/adminabout.jpg" width="220" /> | <img src="screenshot/userfeedback.jpg" width="220" />
+| Admin Dashboard | Admin Item Insert | User Feedback | 
+| <img src="screenshot/adminhome.jpg" width="220" /> 
+| <img src="screenshot/adminadditem.jpg" width="220" /> 
+| <img src="screenshot/adminupdateitem.jpg" width="220" /> 
+| <img src="screenshot/admindeleteitem.jpg" width="220" /> 
+| <img src="screenshot/adminabout.jpg" width="220" /> 
+| <img src="screenshot/userfeedback.jpg" width="220" />
 
 
 ## Tech Stack
