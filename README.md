@@ -38,29 +38,34 @@ The application supports **two main user roles** with role-based access:
 
 ---
 
-## Screenshot
+## Screenshots
 
-| Welcome Screen | Login Screen | User Home | Shopping Cart |
-| <img src="screenshot/welcome.jpg" width="220" /> 
-| <img src="screenshot/login.jpg" width="220" /> 
-| <img src="screenshot/register.jpg" width="220" /> 
-|<img src="screenshot/userhome.jpg" width="220" /> 
-|<img src="screenshot/useraddtocart.jpg" width="220" /> 
-| <img src="screenshot/useradboutview.jpg" width="220" /> 
-| <img src="screenshot/useritemview.jpg" width="220" /> 
-| <img src="screenshot/userprofile.jpg" width="220" /> 
-| <img src="screenshot/userprofileedit.jpg" width="220" />
+### 1. Welcome & Authentication
+| Welcome Screen | Login Screen | Register Screen |
+| :---: | :---: | :---: |
+| <img src="screenshot/welcome.jpg" width="220" /> | <img src="screenshot/login.jpg" width="220" /> | <img src="screenshot/register.jpg" width="220" /> |
 
+<br>
 
+### 2. User Shopping & Profile
+| User Home | Item Details | Add to Cart |
+| :---: | :---: | :---: |
+| <img src="screenshot/userhome.jpg" width="220" /> | <img src="screenshot/useritemview.jpg" width="220" /> | <img src="screenshot/useraddtocart.jpg" width="220" /> |
 
+| Shop About (User View) | User Profile | Edit Profile |
+| :---: | :---: | :---: |
+| <img src="screenshot/useradboutview.jpg" width="220" /> | <img src="screenshot/userprofile.jpg" width="220" /> | <img src="screenshot/userprofileedit.jpg" width="220" /> |
 
-| Admin Dashboard | Admin Item Insert | User Feedback | 
-| <img src="screenshot/adminhome.jpg" width="220" /> 
-| <img src="screenshot/adminadditem.jpg" width="220" /> 
-| <img src="screenshot/adminupdateitem.jpg" width="220" /> 
-| <img src="screenshot/admindeleteitem.jpg" width="220" /> 
-| <img src="screenshot/adminabout.jpg" width="220" /> 
-| <img src="screenshot/userfeedback.jpg" width="220" />
+<br>
+
+### 3. Admin Management & Feedback
+| Admin Dashboard | Add Clothing Item | Update Clothing Item |
+| :---: | :---: | :---: |
+| <img src="screenshot/adminhome.jpg" width="220" /> | <img src="screenshot/adminadditem.jpg" width="220" /> | <img src="screenshot/adminupdateitem.jpg" width="220" /> |
+
+| Delete Clothing Item | Shop About (Admin) | User Feedback |
+| :---: | :---: | :---: |
+| <img src="screenshot/admindeleteitem.jpg" width="220" /> | <img src="screenshot/adminabout.jpg" width="220" /> | <img src="screenshot/userfeedback.jpg" width="220" /> |
 
 
 ## Tech Stack
